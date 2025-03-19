@@ -4,11 +4,38 @@
 
 The Excel Automation Toolkit is a comprehensive set of Excel VBA tools designed to automate data processing tasks, generate reports, and implement data validation. This guide will help you understand how to use each component of the toolkit effectively.
 
-## Getting Started
+## Running the Excel Automation Tools Project
 
-1. Open the `ExcelAutomationToolkit.xlsm` file
-2. Click "Enable Macros" when prompted
-3. The main menu will appear automatically. If not, press Alt+F8 and run the `CreateMainMenu` macro
+### Step-by-Step Instructions for Setting Up Excel with VBA Macros  
+
+### 1. Create an Excel Workbook with Macros Enabled  
+- **Open Excel.**  
+- **Save a new workbook as "ExcelAutomationToolkit.xlsm":**  
+  - Make sure to select the **Excel Macro-Enabled Workbook** format.  
+
+### 2. Import the VBA Modules  
+- **Open the VBA Editor:**  
+  - Press **Alt + F11**.  
+- **Import the .bas files:**  
+  - Right-click on **"VBAProject"** in the Project Explorer.  
+  - Select **"Import File"**.  
+  - Navigate to the source directory and import the following .bas files:  
+    - `DataProcessing.bas`  
+    - `ReportingTools.bas`  
+    - `CustomFunctions.bas`  
+    - `DataValidation.bas`  
+    - `UserInterface.bas`  
+
+### 3. Access the Main Menu  
+- The main menu should appear automatically. If it does not, press **Alt + F8** and run the `CreateMainMenu` macro.  
+
+### 4. Run the Main Menu  
+- In the VBA Editor,   
+  - Press **F5** or go to **Run → Run Sub/UserForm**.  
+  - Select **"CreateMainMenu"** from the **UserInterface** module.  
+  - Click **"Run"**.  
+
+
 
 ## Main Features
 
