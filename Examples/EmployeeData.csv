@@ -1,0 +1,16 @@
+EmployeeID,FirstName,LastName,Department,HireDate,Salary,Manager
+E001,John,Smith,Sales,2019-05-15,65000,Jane Wilson
+E002,Sarah,Johnson,Sales,2020-02-20,62000,Jane Wilson
+E003,Michael,Brown,Sales,2021-06-10,58000,Jane Wilson
+E004,Emily,Davis,Sales,2021-10-05,56000,Jane Wilson
+E005,Robert,Wilson,Marketing,2018-03-15,70000,Thomas Lee
+E006,Jennifer,Martinez,Marketing,2019-07-22,65000,Thomas Lee
+E007,David,Anderson,Marketing,2020-11-18,62000,Thomas Lee
+E008,Lisa,Taylor,Finance,2017-09-10,75000,James Miller
+E009,James,Thomas,Finance,2018-05-20,72000,James Miller
+E010,Mary,Jackson,Finance,2019-08-15,68000,James Miller
+E011,William,White,IT,2017-02-28,80000,Patricia Moore
+E012,Patricia,Harris,IT,2018-10-12,76000,Patricia Moore
+E013,Richard,Clark,IT,2019-04-25,72000,Patricia Moore
+E014,Barbara,Lewis,HR,2018-01-15,68000,Linda Young
+E015,Joseph,Walker,HR,2019-11-05,64000,Linda Young 

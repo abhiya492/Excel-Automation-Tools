@@ -1,0 +1,16 @@
+Date,Region,Category,ProductID,Quantity,UnitPrice,Discount,SalesRep
+2023-01-05,North,Electronics,E-1001,2,499.99,0.10,John Smith
+2023-01-07,South,Electronics,E-1002,1,899.99,0.00,Sarah Johnson
+2023-01-10,East,Office Supplies,O-2001,5,24.99,0.05,Michael Brown
+2023-01-12,West,Furniture,F-3001,1,799.99,0.15,Emily Davis
+2023-01-15,North,Electronics,E-1003,3,299.99,0.00,John Smith
+2023-01-18,South,Office Supplies,O-2002,10,12.99,0.00,Sarah Johnson
+2023-01-20,East,Electronics,E-1001,1,499.99,0.10,Michael Brown
+2023-01-22,West,Furniture,F-3002,2,349.99,0.05,Emily Davis
+2023-01-25,North,Office Supplies,O-2003,15,8.99,0.00,John Smith
+2023-01-28,South,Electronics,E-1002,2,899.99,0.10,Sarah Johnson
+2023-01-31,East,Furniture,F-3001,1,799.99,0.00,Michael Brown
+2023-02-03,West,Electronics,E-1003,4,299.99,0.15,Emily Davis
+2023-02-05,North,Electronics,E-1001,3,499.99,0.05,John Smith
+2023-02-08,South,Office Supplies,O-2001,8,24.99,0.00,Sarah Johnson
+2023-02-10,East,Electronics,E-1002,1,899.99,0.10,Michael Brown 
